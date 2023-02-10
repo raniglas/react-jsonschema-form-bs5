@@ -37,7 +37,7 @@
     "react": ">=17"
   },
   "dependencies": {
-    "@ant-design/icons": "^4.8.0",
+    "@ant-design/icons": "^5.0.1",
     "@babel/runtime": "^7.20.13",
     "@chakra-ui/icons": "^1.1.1",
     "@chakra-ui/react": "^1.7.3",
